@@ -2,6 +2,8 @@
 
 Here you can experience flying with boids...
 
+https://user-images.githubusercontent.com/109744044/204520433-71ecc5aa-5426-484b-b6d1-00dd6b94d41f.mp4
+
 You can see in this video my first attempt to use an m5 Stack with an HTML server to control input. Although it appears laggy, a little motion smoothing will probably go a long way using extrapolated speed. I am also going to try using UDP and possible even BLE if I can access the raw data.
 
 https://user-images.githubusercontent.com/109744044/201940932-9426f347-6fd7-4e30-ac4f-2964c3cb1ed2.mp4
