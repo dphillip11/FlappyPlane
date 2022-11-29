@@ -3,6 +3,7 @@
 Here you can experience flying with boids...
 
 You can see in this video my first attempt to use an m5 Stack with an HTML server to control input. Although it appears laggy, a little motion smoothing will probably go a long way using extrapolated speed. I am also going to try using UDP and possible even BLE if I can access the raw data.
+
 https://user-images.githubusercontent.com/109744044/201940932-9426f347-6fd7-4e30-ac4f-2964c3cb1ed2.mp4
 
 Boids for the uninitiated are bird-oid type objects. Groups of objects that demonstrated swarming behaviour such as the murmurations of the starlings.
